@@ -8,4 +8,6 @@ The headline: at the one-minute horizon on liquid instruments the ratio of edge 
 
 What I do: market-data collectors and pipelines (websockets, ClickHouse, Docker), backtests without lookahead, event studies, honest reviews of other people's backtests. Python, pandas, ClickHouse, Grafana.
 
-Open to quant-developer and data-engineering work, remote. Write-ups in [posts/](https://github.com/stooq1/strategy-graveyard/tree/main/posts) (RU/EN); Telegram channel (RU): [t.me/strategy_graveyard](https://t.me/strategy_graveyard); dev.to (EN): [dev.to/stooq1](https://dev.to/stooq1).
+Patches to ccxt, cryptofeed, nautilus_trader, vectorbt, zipline-reloaded and hummingbot: [stooq1.com/patches](https://stooq1.com/patches/).
+
+Open to quant-developer and data-engineering work, remote: [mail@stooq1.com](mailto:mail@stooq1.com), [stooq1.com](https://stooq1.com). Write-ups in [posts/](https://github.com/stooq1/strategy-graveyard/tree/main/posts) (RU/EN); Telegram channel (RU): [t.me/strategy_graveyard](https://t.me/strategy_graveyard); dev.to (EN): [dev.to/stooq1](https://dev.to/stooq1).
