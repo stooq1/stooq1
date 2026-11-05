@@ -10,4 +10,4 @@ What I do: market-data collectors and pipelines (websockets, ClickHouse, Docker)
 
 Patches to ccxt, cryptofeed, nautilus_trader, vectorbt, zipline-reloaded and hummingbot: [stooq1.com/patches](https://stooq1.com/patches/).
 
-Open to quant-developer and data-engineering work, remote: [mail@stooq1.com](mailto:mail@stooq1.com), [stooq1.com](https://stooq1.com). Write-ups in [posts/](https://github.com/stooq1/strategy-graveyard/tree/main/posts) (RU/EN); Telegram channel (RU): [t.me/strategy_graveyard](https://t.me/strategy_graveyard); dev.to (EN): [dev.to/stooq1](https://dev.to/stooq1).
+Open to quant-developer and data-engineering work, remote: [mail@stooq1.com](mailto:mail@stooq1.com), [stooq1.com](https://stooq1.com). Write-ups: [posts/](https://github.com/stooq1/strategy-graveyard/tree/main/posts) and [dev.to/stooq1](https://dev.to/stooq1).
